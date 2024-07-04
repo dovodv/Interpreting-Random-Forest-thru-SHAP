@@ -1,2 +1,2 @@
-<h1>Interpreting Random Forest Classifier model through SHAP</h1>
-<h4>Dataset: Telco Customer Churn Dataset</h4>
+<h2>Interpreting Random Forest Classifier model through SHAP</h2>
+<p>Dataset: Telco Customer Churn Dataset</p>
